@@ -11,7 +11,7 @@
 
 ## About
 
-In this project is show and movies list filtered by category
+In this project is show an movies list filtered by category
 
 ## Technologies
 
